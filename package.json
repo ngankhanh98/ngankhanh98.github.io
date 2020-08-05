@@ -1,0 +1,31 @@
+{
+  "name": "ngankhanh98.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.16",
+    "@mdx-js/react": "^1.6.16",
+    "gatsby": "^2.24.28",
+    "gatsby-plugin-mdx": "^1.2.34",
+    "gatsby-source-filesystem": "^2.3.24",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gatsby develop -p 3000 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngankhanh98/ngankhanh98.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngankhanh98/ngankhanh98.github.io/issues"
+  },
+  "homepage": "https://github.com/ngankhanh98/ngankhanh98.github.io#readme"
+}
